@@ -2,7 +2,7 @@
 
 var app = {	
 	num_maximo_tecnologias: 3,
-	arrayTecnologias: [],	
+	arrayTecnologias: [],
 
 	adicionaTecnologia: function(tecnologia)
 	{
