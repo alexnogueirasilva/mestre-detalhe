@@ -4,7 +4,7 @@
       <div class="col-lg-12">
         <section class="pane panel-default">
           <header class="panel-heading">
-            Aplicação Mestre-detalhe com PHP e MVC
+            Aplicação comnutarias alagoas
           </header>          
         </section>
       </div>
